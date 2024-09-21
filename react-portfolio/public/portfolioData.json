@@ -1,0 +1,31 @@
+{
+    "home": {
+      "title": "Welcome to My Portfolio",
+      "description": "I specialize in Digital Marketing and Data Entry.",
+      "buttonText": "HIRE ME",
+      "typedStrings": [
+      "I specialize in Digital Marketing.",
+      "I am also Data Entry Specialist.",
+      "Let's grow your business!" 
+    ]
+    },
+    "about": {
+      "title": "About Me",
+      "description": "I have over 2 years of experience in digital marketing and data entry, helping businesses optimize their digital strategies and manage data efficiently."
+    },
+    "services": {
+      "title": "Services",
+      "list": [
+        "Digital Marketing Campaigns",
+        "SEO & SEM Optimization",
+        "Data Entry & Data Management",
+        "Social Media Management"
+      ]
+    },
+    "contact": {
+      "title": "Contact Me",
+      "description": "Feel free to reach out for collaborations or queries.",
+      "email": "hasnat@example.com"
+    }
+  }
+  
